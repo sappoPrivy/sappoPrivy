@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning computer science
+I'm currently a third year in computer science at the Royal Institute of Technology (KTH)
 
 
 ## 🌐 Socials:
