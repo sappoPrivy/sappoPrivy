@@ -13,5 +13,6 @@ I'm currently a third year in computer science at the Royal Institute of Technol
 ## 📊 Projects
 Bachelor Degree Project: [Epileptic Seizure Analysis - Asymmetries in Causality using Convergent Cross Mapping](https://github.com/sappoPrivy/KEX)  
 Socket Programming Project: [Socket layer Implementations](https://github.com/sappoPrivy/Socket_layer_implementations)
+Chipkit Project: [Pacman game on uno32 board](https://github.com/sappoPrivy/Pacman_chipkit_uno32)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
