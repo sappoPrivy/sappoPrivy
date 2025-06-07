@@ -3,7 +3,7 @@ I'm a third-year data science student at KTH Royal Institute of Technology with 
 
 My academic work has also involved contributing to a sustainability-focused project, where I structured the work, distributed tasks and ensured steady progress—an experience that deepened my interest in sustainable thinking. I’m particularly drawn to applying computational models to neurological diseases, aiming to support meaningful, human-centered solutions that advance health.
 
-With a combination of technical expertise, teamwork, and coordination experience, I’m confident in my ability to support and enhance data-driven projects that aim for both innovation and positive societal impact, focusing on building a sustainable future and improving quality of life.
+With a combination of technical expertise, teamwork, and coordination experience, I’m confident in my ability to support and enhance data-driven projects that pursue both innovation and positive societal impact, with a focus on building a sustainable future and improving quality of life - especially in a society where neither of these critical aspects can be guranteed.
 
 
 ## 🌐 Socials
