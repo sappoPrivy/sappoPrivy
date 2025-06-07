@@ -1,5 +1,9 @@
 # 💫 About Me
-I'm currently a third year in computer science at the Royal Institute of Technology (KTH)
+I'm a third-year data science student at KTH Royal Institute of Technology with experience across data analysis, database development, socket programming, and operating systems. These areas have allowed me to develop practical programming skills in multiple languages, including Python, Java and SQL, which I have applied in several projects, recently leading data preprocessing and optimization efforts.
+
+My academic work has also involved contributing to a sustainability-focused project, where I structured the work, distributed tasks and ensured steady progress—an experience that deepened my interest in sustainable thinking. I’m particularly drawn to applying computational models to neurological diseases, aiming to support meaningful, human-centered solutions that advance health.
+
+With a combination of technical expertise, teamwork, and coordination experience, I’m confident in my ability to support and enhance data-driven projects that aim for both innovation and positive societal impact, focusing on building a sustainable future and improving quality of life.
 
 
 ## 🌐 Socials
