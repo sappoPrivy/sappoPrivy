@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm a third-year data science student at KTH with experience across data analysis, database development, socket programming, and operating systems like Linux. These areas have allowed me to develop practical programming skills in multiple languages, including Python, Java and SQL, which I have applied in several projects, recently leading data preprocessing and optimization efforts in an epilepsy study.
+I'm a upcoming fourth-year data science student at KTH with experience across data analysis, database development, socket programming, and operating systems like Linux. These areas have allowed me to develop practical programming skills in multiple languages, including Python, Java and SQL, which I have applied in several projects, recently leading data preprocessing and optimization efforts in an epilepsy study.
 
 My academic work has also involved contributing to a sustainability-focused project, where I structured the work, distributed tasks and ensured steady progress - an experience that deepened my interest in sustainable thinking. I’m particularly drawn to analysing data in neurological diseases, as shown in my epilepsy study, aiming to support meaningful, human-centered solutions that advance health.
 
