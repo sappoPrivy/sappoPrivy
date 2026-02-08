@@ -3,7 +3,7 @@ As a fourth year data science student at the Royal Institute of Technology (KTH)
 
 My bachelor thesis focuses on investigating the asymmetry in causal interactions between brain regions during epileptic seizures. Entering a new research area, I conducted data preprocessing, analysis, and visualisation in Python for the large dataset.  After completing the thesis, I continued exploring the data on my own using Graph Neural Networks, reflecting my self driven approach to learning and experimentation. 
 
-Looking ahead, I am expanding my skills in machine learning with the goal of applying data science across different areas; and I am currently taking additional ML/DL courses to deepen this direction. I am particularly interested in analysing data and I have also experience with data engineering in Azure. With a combination of technical skills, analytical thinking, and self driven learning, I am confident about my ability to support and enhance projects.
+Looking ahead, I am expanding my skills in machine learning with the goal of applying data science across different areas; and I am currently taking additional ML/DL courses to deepen this direction. I am particularly interested in analysing data and I have also experience with data engineering in Azure. With a combination of technical skills, analytical thinking, and self driven learning, I am confident about my ability to support and enhance data-driven projects.
 
 
 ## 🌐 Socials
