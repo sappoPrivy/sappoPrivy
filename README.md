@@ -1,9 +1,9 @@
 # 💫 About Me
-I'm a fourth-year data science student at KTH with experience across data analysis, database development, socket programming, and operating systems like Linux. These areas have allowed me to develop practical programming skills in multiple languages, including Python, Java and SQL, which I have applied in several projects, recently leading data preprocessing and optimization efforts in an epilepsy study.
+As a fourth year data science student at the Royal Institute of Technology (KTH), I have gained experience in data analysis, database development, machine learning, and network programming, developing practical skills in Python, Java, and SQL. These experiences have shaped my interest in the broader applications of data science, especially in cybersecurity as I am pursuing a cybersecurity master.
 
-My academic work has also involved contributing to a sustainability-focused project, where I structured the work, distributed tasks and ensured steady progress - an experience that deepened my interest in sustainable thinking. I’m particularly drawn to analysing data in neurological diseases, as shown in my epilepsy study, aiming to support meaningful, human-centered solutions that advance health.
+My bachelor thesis focuses on investigating the asymmetry in causal interactions between brain regions during epileptic seizures. Entering a new research area, I conducted data preprocessing, analysis, and visualisation in Python for the large dataset.  After completing the thesis, I continued exploring the data on my own using Graph Neural Networks, reflecting my self driven approach to learning and experimentation. 
 
-With a combination of technical expertise, analytical thinking, and coordination experience, I’m confident in my ability to support and enhance data-driven projects that pursue both innovation and positive societal impact, with a focus on building a sustainable future and improving quality of life - especially in a society where neither of these critical aspects can be guranteed.
+Looking ahead, I am expanding my skills in machine learning with the goal of applying data science across different areas; and I am currently taking additional ML/DL courses to deepen this direction. I am particularly interested in analysing data and I have also experience with data engineering in Azure. With a combination of technical skills, analytical thinking, and self driven learning, I am confident about my ability to support and enhance projects.
 
 
 ## 🌐 Socials
