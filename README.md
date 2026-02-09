@@ -18,9 +18,9 @@ Looking ahead, I am expanding my skills in machine learning with the goal of app
 - [Advanced Encryption Scheme (AES) Implementation](https://github.com/sappoPrivy/aes_implementation/tree/main)
 - [Decentralized Key Management System for Web Login](https://github.com/DanielN77/Decentralized-Key-Management)
 - [Epilepsy Detection using GNN with Causal Asymmetries](https://github.com/sappoPrivy/Epilepsy_seizure_detection_using_causal_asymmetries_in_Graph_Neural_Networks)
-### Epileptic Seizure Analysis - Asymmetries in Causality using Convergent Cross Mapping
-[repo](https://github.com/sappoPrivy/KEX)
+### Epileptic Seizure Analysis - Asymmetries in Causality using Convergent Cross Mapping [repo](https://github.com/sappoPrivy/KEX)
 A bachelor thesis investigating bidirectional causal relationships between brain regions during epileptic seizures. I developed all analysis code using numerical simulations in python, including large‑scale data preprocessing, hyperparameter tuning, and comprehensive result analysis and visualisation. I am currently extending this research by applying Graph Neural Networks.
+
 
 - [Simple Fullstack Webapplication with Authentication using Spring boot and React Typescript](https://github.com/sappoPrivy/Simple_fullstack_webapplication_with_authentication)
 - [Socket layer Implementations](https://github.com/sappoPrivy/Socket_layer_implementations)  
