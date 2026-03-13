@@ -27,7 +27,7 @@ Implemented own version of advanced encryption scheme in python.
 Mitigating the risks of centralised key management, through implementing a decentralized database instead, where each password is split into shards and stored separately in different databases using Shamir Secret Sharing (SSS) in a group project.
 
 ### Epilepsy Detection using GNN with Causal Asymmetries [repo](https://github.com/sappoPrivy/Epilepsy_seizure_detection_using_causal_asymmetries_in_Graph_Neural_Networks)
-I am currently extending on bachelor thesis project by applying Graph Neural Networks.
+Currently extending on bachelor thesis project by applying Graph Neural Networks.
 
 ### Epileptic Seizure Analysis - Asymmetries in Causality using Convergent Cross Mapping [repo](https://github.com/sappoPrivy/KEX)
 A bachelor thesis investigating bidirectional causal relationships between brain regions during epileptic seizures. I developed all analysis code using numerical simulations in python, including large‑scale data preprocessing, hyperparameter tuning, and comprehensive result analysis and visualisation. I am currently extending this research by applying Graph Neural Networks.
