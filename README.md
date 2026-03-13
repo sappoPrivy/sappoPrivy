@@ -17,7 +17,7 @@ Looking ahead, I am expanding my skills in machine learning with the goal of app
 ### Intrusion Detection Using From Scratch ML models [repo](https://github.com/sappoPrivy/intrusion_detection_using_ML_models)
 Classifying attack traffic (e.g. dos, probe, R2L, U2R) from normal traffic using self-implemented models - logistic regression, binary neural network, softmax regression and multi-class neural network.
 
-### Cryptanalysis [repo](https://github.com/sappoPrivy/cryptanalysis)
+### Cryptanalysis of Multiple Ciphers [repo](https://github.com/sappoPrivy/cryptanalysis)
 Cracking different ciphers - Vigenere cipher, Ceasar cipher, Substitution cipher - using kasinski analysis and frequency analysis.
 
 ### Advanced Encryption Scheme (AES) Implementation [repo](https://github.com/sappoPrivy/aes_implementation/tree/main)
