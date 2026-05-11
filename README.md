@@ -21,7 +21,7 @@ Classifying attack traffic (e.g. dos, probe, R2L, U2R) from normal traffic using
 Cracking different ciphers - Vigenere cipher, Ceasar cipher, Substitution cipher - using kasinski analysis and frequency analysis.
 
 ### Advanced Encryption Scheme (AES) Implementation [repo](https://github.com/sappoPrivy/aes_implementation/tree/main)
-Implemented own version of advanced encryption scheme in python.
+Implemented own version of advanced encryption scheme in python and added countermeasures for side channel attacks such as priming, constant programming, randomization of S-box layout.
 
 ### Decentralized Key Management System for Web Login [repo](https://github.com/DanielN77/Decentralized-Key-Management)
 Mitigating the risks of centralised key management, through implementing a decentralized database instead, where each password is split into shards and stored separately in different databases using Shamir Secret Sharing (SSS) in a group project.
