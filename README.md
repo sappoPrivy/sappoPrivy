@@ -1,5 +1,5 @@
 # 💫 About Me
-As a fourth year data science student at the Royal Institute of Technology (KTH), I have gained experience in data analysis, database development, machine learning, and network programming, developing practical skills in Python, Java, and SQL. These experiences have shaped my interest in the broader applications of data science, especially in cybersecurity as I am pursuing a cybersecurity master.
+As a fourth year computer science student at the Royal Institute of Technology (KTH), I have gained experience in data analysis, database development, machine learning, and network programming, developing practical skills in Python, Java, and SQL. These experiences have shaped my interest in the broader applications of data science, especially in cybersecurity as I am pursuing a cybersecurity master.
 
 My bachelor thesis focuses on investigating the asymmetry in causal interactions between brain regions during epileptic seizures. Entering a new research area, I conducted data preprocessing, analysis, and visualisation in Python for the large dataset.  After completing the thesis, I continued exploring the data on my own using Graph Neural Networks, reflecting my self driven approach to learning and experimentation. 
 
