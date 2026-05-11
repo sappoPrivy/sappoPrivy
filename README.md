@@ -36,9 +36,6 @@ A bachelor thesis investigating bidirectional causal relationships between brain
 ### Simple Fullstack Webapplication with Authentication using Spring boot and React Typescript [repo](https://github.com/sappoPrivy/Simple_fullstack_webapplication_with_authentication)
 This simple fullstack application has log-in, log-out, sign-up, profile and home page with menu options and an extensive database with CRUD operations for user information. This project relied on my ability to design a non-redundant database, while using new technologies such as spring boot for the backend, React typescript for the frontend and additionally docker multi-container for the postgreSQL database, backend and frontend services.
 
-### Socket layer Implementations [repo](https://github.com/sappoPrivy/Socket_layer_implementations)  
-This project implements networking applications through the socket API.
-
 ### Pacman game on uno32 board [repo](https://github.com/sappoPrivy/Pacman_chipkit_uno32)
 This pacman game is displayed on a chipkit uno-32 board. In this project I utilized my skills in porgramming language C to implement the game logic and learnt how to upload the game onto to the chipkit through pic32. I also had the opportunity to design the map in pixilart and then render it through python.
 
